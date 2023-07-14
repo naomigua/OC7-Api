@@ -8,5 +8,4 @@ seaborn==0.12.2
 shap==0.42.0
 streamlit==1.24.1
 uvicorn==0.22.0
-pickle5==0.0.11
 gunicorn==20.1.0
