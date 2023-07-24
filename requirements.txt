@@ -10,3 +10,4 @@ streamlit==1.24.1
 uvicorn==0.22.0
 gunicorn==20.1.0
 pytest
+httpx
