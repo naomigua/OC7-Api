@@ -14,6 +14,7 @@ from pathlib import Path
 #C:\Users\Me\Documents\1- DATA SCIENCE\Projet7\>uvicorn api:app --reload
 #run dans le terminal: uvicorn api:app --reload
 #env7
+#test pour push api github actions 
 warnings.filterwarnings("ignore")
 data_FE_columns=pickle.load(open('bin/data_FE_columns.sav','rb'))
 logreg_best=pickle.load(open("bin/logreg_best.sav", 'rb'))
